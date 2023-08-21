@@ -1,1 +1,10 @@
 # CS-250
+
+
+    How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+    How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+    What does it mean to be a good team member in software development?
+
+Good communication techniques are vital in interpreting user needs into a program. Creating things like 'user stories' helps to organize these thoughts into a format in which you can order them based on importance. By doing this you ensure that all of the 'user stories' are accounted for but also are organized in a way that help the work flow go smoothly. Developing a program using agile methodologies is a bit different than using waterfall but it still requires planning! Using things like 'Roll Wave Planning', which typically starts with the high-level plan that helps outline the basics of the project. As the project develops, so does the details of the plans and requirements. The thought behind using this strategy is that there is too much potential risk and guesswork in trying to plan out every aspect of the project at the very beginning. To be a good team member in software development, you'll need to be open to advice and guidance and be critical and honest about your limitations and your skillset. It is okay to have certain strenghts and weaknesses but it is important to understand your own limitations when it comes to programming so you don't try to 'bite off more than you can chew'. By this I mean if you aren't 100% confindent in doing a task but you know someone who is knowledgeable in it, it would be be in the teams' best interest if you ask for their help instead of trying to figure it out alone which could cause unneeded errors and wasted development time. It is also really important for a developer to have a sense of pride in their work and strive to put out the best possible work they can. It can feel easy to just try and find the simplest way to a solution but that is not always the best way for it to be done and you should strive to make things better than 'good enough'. 
+
+Thank you for reading!
